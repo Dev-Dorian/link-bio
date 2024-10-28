@@ -1,0 +1,6 @@
+reflex==0.5.7
+
+ /*Permite crear la carpeta public*/-
+source .venv\Scripts\activate
+reflex init
+reflex export --frontend-only
